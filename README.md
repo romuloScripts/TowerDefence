@@ -1,1 +1,1 @@
-Tower Defence prototype made in Unity 2018.3
+A tower defence prototype made in Unity 2018.3
